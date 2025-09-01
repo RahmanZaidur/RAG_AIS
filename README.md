@@ -74,7 +74,7 @@ http://127.0.0.1:7860
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **[LangChain](https://www.langchain.com/)** – RAG pipeline & conversational chains  
 - **[Chroma](https://www.trychroma.com/)** – Vector database for embeddings  
@@ -113,7 +113,7 @@ Simple interactive chatbot with input box, history, and clearing options.
 
 ---
 
-## 👩‍💻 Authors
+## Authors
 
 - **Zaidur Rahman**  
 - **Dr. Heather Nachtmann**  
@@ -123,6 +123,6 @@ University of Arkansas
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** – feel free to use and adapt.  
